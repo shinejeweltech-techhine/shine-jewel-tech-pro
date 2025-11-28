@@ -57,7 +57,7 @@ export const Hero: React.FC = () => {
               <div className="relative block w-full bg-white dark:bg-slate-900 rounded-xl overflow-hidden aspect-[4/3]">
                 <img
                   className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
-                  src="https://picsum.photos/seed/machine_hero/800/800"
+                  src="/images/3-in-1-casting-machine-500x500.png"
                   alt="Advanced Machinery"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent"></div>
