@@ -1,5 +1,5 @@
 import React from 'react';
-import { Diamond, Facebook, Instagram, Linkedin, Twitter } from 'lucide-react';
+import { Facebook, Instagram, Linkedin, Twitter } from 'lucide-react';
 
 export const Footer: React.FC = () => {
   return (
@@ -9,8 +9,13 @@ export const Footer: React.FC = () => {
             
             {/* Brand */}
             <div className="col-span-1 md:col-span-1">
-                <div className="flex items-center gap-2 mb-4">
-                    <Diamond className="h-6 w-6 text-amber-500" />
+                <div className="flex items-center gap-3 mb-4">
+                    {/* लोगो इमेज */}
+                    <img 
+                      src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdHlNPoJhJDCdywUIsu_bEqTxMApDZLZ7UsXOUkKW-IZL-Bz2OQMxn0a4hMPCJ_J0MXRl4V1yufQKqY6tdgLgKdbMXgDM0tfRfHNq70-3UlUzdPJZ-WNO9iSZCYmZvC-DAEaN5Z7Yk9rPiCgr2qlIh8iz1pDl8VctmuW9MZFxsBqyPc0pJvs2fIiIRwto/s500/logo-removebg-preview.png" 
+                      alt="Shine Jewel Tech Logo" 
+                      className="h-8 w-8 object-contain" 
+                    />
                     <span className="font-bold text-xl tracking-tight">
                         Shine Jewel Tech
                     </span>
