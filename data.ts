@@ -3,11 +3,11 @@ import { Machine, Testimonial } from './types';
 export const machines: Machine[] = [
   {
     id: '1',
-    name: 'Laser Pro Cutter X1',
-    category: 'Cutting',
-    description: 'High-precision laser cutting machine designed for intricate jewelry designs. Features minimal material loss technology.',
+    name: '3 In 1 Vaccum Casting Machine, Electric, Automation Grade',
+    category: 'Vaccum Casting',
+    description: 'It is mainly used by goldsmith. It is a safe as well as reliable process of removing gold. It t is designed utilizing high grade material, procured from reliable sources of the industry as per the defined industry norms. Automatic Gold Refining Machine is widely known for its durability and quality.',
     priceRange: '$12,000 - $15,000',
-    features: ['0.01mm Precision', 'Auto-Focus Head', 'Water Cooling System'],
+    features: ['0.01mm Precision', 'Vaccum', 'Casting'],
     imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mKVPip0R8h8uf0dCsmd3cIUD_dJzvLxFBXT80fHWhD5PAAcW0zYCPMaVkO-xWDTZsEP2p_8OuP0_OHmyphRbmGb5l_zYa8Vz3w7nYZtWwoGbDxCqwvFJ6Fxss0hG_cSvYGgBAVFSo0FYZSk06FnIpQxnOsLwIkNXXgAE9UPrwtR6J2431-ubBiX3Rsg/s1024/Gemini_Generated_Image_3kfjiu3kfjiu3kfj.png'
   },
   {
