@@ -57,7 +57,7 @@ export const Hero: React.FC = () => {
               <div className="relative block w-full bg-white dark:bg-slate-900 rounded-xl overflow-hidden aspect-[4/3]">
                 <img
                   className="w-full h-full object-cover transform hover:scale-105 transition-transform duration-700"
-                  src="/images/3-in-1-casting-machine-500x500.png"
+                  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mKVPip0R8h8uf0dCsmd3cIUD_dJzvLxFBXT80fHWhD5PAAcW0zYCPMaVkO-xWDTZsEP2p_8OuP0_OHmyphRbmGb5l_zYa8Vz3w7nYZtWwoGbDxCqwvFJ6Fxss0hG_cSvYGgBAVFSo0FYZSk06FnIpQxnOsLwIkNXXgAE9UPrwtR6J2431-ubBiX3Rsg/s1024/Gemini_Generated_Image_3kfjiu3kfjiu3kfj.png"
                   alt="Advanced Machinery"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent"></div>
