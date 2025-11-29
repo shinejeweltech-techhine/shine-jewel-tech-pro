@@ -26,7 +26,7 @@ export const machines: Machine[] = [
     description: 'Industrial grade vibration polishing machine for mass finishing of jewelry pieces. Silent operation.',
     priceRange: '$1,200 - $2,000',
     features: ['5kg Capacity', 'Variable Frequency', 'Noise Reduction'],
-    imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVXto4ccsDR7W5vJfh6ObzTDhZY0ARy68t7HmFch9fd8vSKWB7LAEX-cmJDp4ZWgn91Ft_IHuFS_S5Al-DZabjeqv0ftZ2uD1bPu-5vshVt3BaDpcfB2aGwE21-les1lMzAC6Kmfj2JB1wmDPX7Le5dcW9D-uZXcxmHnWyusi4e4DmvZdp7a2riSpFKW0/s320/Gemini_Generated_Image_5m0ww55m0ww55m0w.png'
+    imageUrl: '"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSPNkDeY3Zk-y6LewxGxCa3s4-x8MGjZAbsqZXAc3E0Bbb54nUDOelXnK_upKLIMHGWZhOgYk8X4K7kdx2HsD4G3YNsztV4DNx3-fy35meHzcPtY504MpJtcRvmyasHkVqa7qPwWMv_XJUZkfWkzF0or3YzaV3Xru0UHGnUldsovyDC3xLW9wFjDwzRPM/s320/Gemini_Generated_Image_ak7kb7ak7kb7ak7k.png'
   },
   {
     id: '4',
@@ -35,7 +35,7 @@ export const machines: Machine[] = [
     description: 'Advanced optical microscope with articulating arm for precise stone setting and inspection.',
     priceRange: '$800 - $1,200',
     features: ['45x Zoom', 'LED Ring Light', 'Ergonomic Stand'],
-    imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiOOkomdKHw255ClC07F-t2jK3VWoJSaMHJg2fofN0G2sCQvcaQOC6ZavLMQiVv9ccN_dAAxIEi3X52UhZGW6wW491Hm3kAIFdY_oBcpIh1eyr_Rh54rmArvUoh-hv8SyhlJNC_Ry_HBb-qb68hNiClh474NSJxhR_VbGUba6rOTPWhUKrr6lRoMmqgTk/s1024/Gemini_Generated_Image_8d800x8d800x8d80.png'
+    imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxi3HrcP-pgHxfWJgnKWDPkkS0RooG66jBoVgcIfWE0o548r-FYEEVVjPrUdMioXV4_rWP1YvEUD6ws32wUc-xszu7Icww0vTUO1AYIIbUHjeBIESnGuobkAhThdTbZzZhObL3f_MM1FdOgnUTnHwLotmR5EmBFAvNiVCoLajcPXxgzcGuGk5-C7Nnx14/s320/Gemini_Generated_Image_kvsvtakvsvtakvsv.png'
   },
   {
     id: '5',
