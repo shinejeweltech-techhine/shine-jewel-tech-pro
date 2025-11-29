@@ -12,11 +12,11 @@ export const machines: Machine[] = [
   },
   {
     id: '2',
-    name: 'GoldSmith Rolling Mill',
-    category: 'Forming',
-    description: 'Heavy-duty electric rolling mill for flattening and shaping gold and silver ingots with uniform thickness.',
+    name: 'VEVOR Wax Injector machine',
+    category: 'VEVOR Wax',
+    description: 'This 500W machine has a 2.5kg (5.5lb) capacity tank It is designed with a high-precision thermostat, offering an adjustable temperature range of 30-110°C (86-230°F) The injector features double nozzles for efficient wax injection and includes a pressure regulator with a safety valve for accurate measurement and safe operation The aluminum tank provides fast and even thermal conductivity for quick heating It is an ideal tool for professional jewelry craftsmen and amateurs alike.',
     priceRange: '$3,500 - $5,000',
-    features: ['Dual Speed Control', 'Hardened Steel Rolls', 'Emergency Stop'],
+    features: ['VEVOR Wax Injector', 'This 500W machine has a 2.5kg'],
     imageUrl: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjvr89rJZDT8cNf4qGayJBSPsiRYlnqghEKEVuylncYRBhHwoUlO4ESxtXgx3Ivz43GcZLc80-7i8GfKUuLLRApF_5oA_yp0zM8XcsjvJ84XhOVg9kTFSPTUNnYDqxcPupubApNC0dDRBc7Hi4sPccPAFufkmVIDlY4vzgdgz1D610mchMjwcV9Gyz6ms/s1024/machine2.png'
   },
   {
