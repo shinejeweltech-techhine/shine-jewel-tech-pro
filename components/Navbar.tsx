@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Menu, X, Diamond, Sun, Moon } from 'lucide-react';
+import { Menu, X, Sun, Moon } from 'lucide-react';
 
 const navItems = [
   { label: 'Home', href: '#home' },
@@ -23,10 +23,13 @@ export const Navbar: React.FC<NavbarProps> = ({ isDark, toggleTheme }) => {
         <div className="flex items-center justify-between h-20">
           
           {/* Logo */}
-          <div className="flex-shrink-0 flex items-center gap-2 cursor-pointer" onClick={() => window.scrollTo(0, 0)}>
-            <div className="bg-slate-900 dark:bg-amber-500 p-2 rounded-lg transition-colors duration-300">
-                <Diamond className="h-6 w-6 text-amber-500 dark:text-slate-900" />
-            </div>
+          <div className="flex-shrink-0 flex items-center gap-3 cursor-pointer" onClick={() => window.scrollTo(0, 0)}>
+            {/* लोगो इमेज */}
+            <img 
+              src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdHlNPoJhJDCdywUIsu_bEqTxMApDZLZ7UsXOUkKW-IZL-Bz2OQMxn0a4hMPCJ_J0MXRl4V1yufQKqY6tdgLgKdbMXgDM0tfRfHNq70-3UlUzdPJZ-WNO9iSZCYmZvC-DAEaN5Z7Yk9rPiCgr2qlIh8iz1pDl8VctmuW9MZFxsBqyPc0pJvs2fIiIRwto/s500/logo-removebg-preview.png" 
+              alt="Shine Jewel Tech Logo" 
+              className="h-10 w-10 object-contain" 
+            />
             <span className="font-bold text-xl tracking-tight text-slate-900 dark:text-white">
               Shine Jewel <span className="text-amber-600 dark:text-amber-400">Tech</span>
             </span>
