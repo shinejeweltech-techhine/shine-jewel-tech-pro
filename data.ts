@@ -8,7 +8,7 @@ export const machines: Machine[] = [
     description: 'High-precision laser cutting machine designed for intricate jewelry designs. Features minimal material loss technology.',
     priceRange: '$12,000 - $15,000',
     features: ['0.01mm Precision', 'Auto-Focus Head', 'Water Cooling System'],
-    imageUrl: '/imags/machine1.png'
+    imageUrl: 'imags/machine1.png'
   },
   {
     id: '2',
