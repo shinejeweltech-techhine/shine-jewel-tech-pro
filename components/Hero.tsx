@@ -62,8 +62,8 @@ export const Hero: React.FC = () => {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-slate-900/80 via-transparent to-transparent"></div>
                 <div className="absolute bottom-6 left-6 text-white">
-                  <p className="font-bold text-xl tracking-wide">X1 Laser Series</p>
-                  <p className="text-sm text-amber-400">Our Best Seller</p>
+                  <p className="font-bold text-xl tracking-wide">3 In 1 Vacuum Casting Machine</p>
+                  <p className="text-sm text-amber-400">Made in India</p>
                 </div>
               </div>
             </div>
